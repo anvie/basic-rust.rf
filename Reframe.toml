@@ -4,7 +4,7 @@ author = "r@nosql.asia"
 
 [project]
 name = "Hello World"
-version = "1.0"
+version = "0.1.0"
 
 [[param]]
 with_serde = { ask = "Dengan serde?", default = false }
