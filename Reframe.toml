@@ -1,6 +1,7 @@
 [reframe]
 name = "Basic Rust"
 author = "r@nosql.asia"
+min_version = "0.1.8"
 
 [project]
 name = "Hello World"
