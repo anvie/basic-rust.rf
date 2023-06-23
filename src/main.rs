@@ -1,6 +1,6 @@
 /// Project $name$
 /// 
-/// Author: $param.author_name$ <$param.author_email_lowercase$>
+/// Author: $param.author_name$ <$param.author_email_lower_case$>
 ///
 
 
