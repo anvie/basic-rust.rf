@@ -5,7 +5,7 @@
 
 
 fn main() {
-    println!("Welcome to $name$ version {}", env!("CARGO_PKG_VERSION");
+    println!("Welcome to $name$ version {}", env!("CARGO_PKG_VERSION"));
 
     // <% if param.with_serde %>
     println!("aplikasi ini mendukung serde!");
